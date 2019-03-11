@@ -1,6 +1,8 @@
 
 Time Domain Electromagnetic Field Simulation using the Transmission Line Modelling (TLM) method
 
+This branch is for the development of a link between GGI_TLM and the SPICE circuit simulation package Ngspice.
+
 Version number: 1.4.1
 Date: 15th January 2019
 
